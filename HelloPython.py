@@ -1,4 +1,4 @@
-#Print something in Python
+#Write a program to print something in Python
 
 print("Day-1 Python print function\n")
 print("The function is declared like this")
