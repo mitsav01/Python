@@ -1,4 +1,4 @@
-#Write a program to calculate BMI from person's height and weight and show if it is normal or not
+#Write a program to calculate BMI from person's height and weight and let the user know if it is normal or not
 
 print("BMI Calculator")
 weight=float(input("Enter weight in kg: "))
