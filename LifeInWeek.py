@@ -8,7 +8,6 @@ You have x days, y weeks, and z months left.
 Where x, y and z are replaced with the actual calculated numbers
 """
 
-
 age=int(input("What is your age?"))
 
 remaining_years=90-age
