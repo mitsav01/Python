@@ -1,5 +1,6 @@
 #Write a program,asking user to enter a number then determine whether it is odd or even
 
+
 print("Odd or Even")
 num=int(input("Enter a number: "))
 
